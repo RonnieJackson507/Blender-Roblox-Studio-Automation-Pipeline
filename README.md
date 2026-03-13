@@ -75,8 +75,8 @@ Before installing, make sure you have the following set up:
 
 ### 1. Clone the repo
 ```powershell
-git clone https://github.com/RonnieJackson507/blender-roblox-pipeline.git
-cd blender-roblox-pipeline
+git clone https://github.com/RonnieJackson507/Blender-Roblox-Studio-Automation-Pipeline.git
+cd Blender-Roblox-Studio-Automation-Pipeline
 ```
 
 ### 2. Set your environment variables
